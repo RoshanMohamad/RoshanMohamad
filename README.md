@@ -50,15 +50,6 @@
 </details>
 
 <details>
-<summary><strong>Weather Monitor (IoT)</strong> — real-time environmental data</summary>
-
-- Description: IoT system that collects sensor data (temp/humidity/pressure) and streams to a dashboard for analysis.  
-- Tech: Microcontroller (ESP32/Arduino), Node.js backend, PostgreSQL, React dashboard  
-- Demo / Repo: (link placeholder)  
-- Screenshot: ![Weather screenshot](./assets/weather-monitor.png)
-</details>
-
-<details>
 <summary><strong>Warehouse Management System</strong> — inventory & logistics</summary>
 
 - Description: Full-stack system to manage inventory, orders, and warehouse workflows.  
